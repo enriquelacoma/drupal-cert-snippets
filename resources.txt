@@ -1,0 +1,23 @@
+Información sobre las certificación:
+  https://www.acquia.com/solutions/customer-success/acquia-certification
+    Al final de la página están las cuatro certificaciones con el temario.
+
+  https://training.acquia.com/study-guides
+    Aquí hay información sobre cada certificación, con una descripción detallada, como el número de preguntas y el tema de cada pregunta
+
+  https://acquia-academy.gitbook.io/in-depth-guide-acquia-certified-developer-drupal/other-resources
+    Recursos de estudio
+
+
+Guias de estudio en drupalize.me
+  https://drupalize.me/guide/acquia-certification-exam-preparation
+  https://drupalize.me/guide/acquia-certified-back-end-specialist-exam
+  https://drupalize.me/guide/acquia-certified-front-end-specialist-exam
+  https://drupalize.me/guide/acquia-certified-site-builder-exam
+  https://drupalize.me/guide/acquia-certified-developer-exam
+
+Preparación de la certificación
+
+  - Herramientas:
+    - Repositorio en github (https://github.com/enriquelacoma/drupal-cert) como sitio de pruebas para preparar la certificación
+    - Repositorio en github (https://github.com/enriquelacoma/drupal-cert-snippets) para guardar notas, ejemplos y documentación sobre la certificación

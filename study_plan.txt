@@ -1,28 +1,27 @@
-Información sobre las certificación:
-  https://www.acquia.com/solutions/customer-success/acquia-certification
-    Al final de la página están las cuatro certificaciones con el temario.
+- Planificación:
+  - Julio-Agosto: General knowledge / 1.0 Fundamental web development concepts
+  - Agosto: 2.0 Site building
+  - Septiembre: 3.0 Front-end development (theming)
+  - Octubre: 4.0 Back-end development (coding)
 
-  https://training.acquia.com/study-guides
-    Aquí hay información sobre cada certificación, con una descripción detallada, como el número de preguntas y el tema de cada pregunta
-
-  https://acquia-academy.gitbook.io/in-depth-guide-acquia-certified-developer-drupal/other-resources
-    Recursos de estudio
-
-
-Guias de estudio en drupalize.me
-  https://drupalize.me/guide/acquia-certification-exam-preparation
-  https://drupalize.me/guide/acquia-certified-back-end-specialist-exam
-  https://drupalize.me/guide/acquia-certified-front-end-specialist-exam
-  https://drupalize.me/guide/acquia-certified-site-builder-exam
-  https://drupalize.me/guide/acquia-certified-developer-exam
-
-Preparación de la certificación
-
-  - Herramientas:
-    - Repositorio en github (https://github.com/enriquelacoma/drupal-cert) como sitio de pruebas para preparar la certificación
-    - Repositorio en github (https://github.com/enriquelacoma/drupal-cert-snippets) para guardar notas, ejemplos y documentación sobre la certificación
-  - Planificación:
-    - Julio-Agosto: General knowledge / 1.0 Fundamental web development concepts
-    - Agosto: 2.0 Site building
-    - Septiembre: 3.0 Front-end development (theming)
-    - Octubre: 4.0 Back-end development (coding)
+1.0 Fundamental web development concepts
+  1.1 Demonstrate knowledge of HTML and CSS
+  1.2 Identify Javascript and jQuery programming concepts
+  1.3 Demonstrate the use of Git for version control
+2.0 Site building
+  Build Drupal Sites
+  Exposing Your API in Drupal 8
+  Manage Configuration and Workflows
+3.0 Front-end development (theming)
+  Theme Drupal Sites
+  Template Design with Twig
+4.0 Back-end development (coding)
+  Develop Drupal Sites
+  Debug Drupal Code
+  Security
+  Performance and Scalability
+  Drupal Coding Standards
+General knowledge
+  PHP
+  Command Line Basics
+  Drush
