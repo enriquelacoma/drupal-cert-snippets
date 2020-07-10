@@ -4,7 +4,9 @@
   - Septiembre: 3.0 Front-end development (theming)
   - Octubre: 4.0 Back-end development (coding)
 
-1.0 Fundamental web development concepts
+https://drupalize.me/guide/acquia-certified-developer-exam
+
+1.0 Fundamental web development concepts 
   Demonstrate knowledge of HTML and CSS
   Identify Javascript and jQuery programming concepts
   Demonstrate the use of Git for version control
