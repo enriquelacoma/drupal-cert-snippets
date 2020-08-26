@@ -21,3 +21,5 @@ Preparación de la certificación
   - Herramientas:
     - Repositorio en github (https://github.com/enriquelacoma/drupal-cert) como sitio de pruebas para preparar la certificación
     - Repositorio en github (https://github.com/enriquelacoma/drupal-cert-snippets) para guardar notas, ejemplos y documentación sobre la certificación
+ - Test online
+    - https://drupalium.com/assessments/online-test-for-drupal-developers
