@@ -10,16 +10,20 @@ Información sobre las certificación:
 
 
 Guias de estudio en drupalize.me
-  https://drupalize.me/guide/acquia-certification-exam-preparation
-  https://drupalize.me/guide/acquia-certified-back-end-specialist-exam
-  https://drupalize.me/guide/acquia-certified-front-end-specialist-exam
-  https://drupalize.me/guide/acquia-certified-site-builder-exam
-  https://drupalize.me/guide/acquia-certified-developer-exam
+  - https://drupalize.me/guide/acquia-certification-exam-preparation
+  - https://drupalize.me/guide/acquia-certified-back-end-specialist-exam
+  - https://drupalize.me/guide/acquia-certified-front-end-specialist-exam
+  - https://drupalize.me/guide/acquia-certified-site-builder-exam
+  - https://drupalize.me/guide/acquia-certified-developer-exam
 
-Preparación de la certificación
+Guias de estudio
+  - https://github.com/WidgetsBurritos/d8-studyguide (por revisar)
 
-  - Herramientas:
-    - Repositorio en github (https://github.com/enriquelacoma/drupal-cert) como sitio de pruebas para preparar la certificación
-    - Repositorio en github (https://github.com/enriquelacoma/drupal-cert-snippets) para guardar notas, ejemplos y documentación sobre la certificación
- - Test online
+Herramientas:
+  - Repositorio en github (https://github.com/enriquelacoma/drupal-cert) como sitio de pruebas para preparar la certificación
+  - Repositorio en github (https://github.com/enriquelacoma/drupal-cert-snippets) para guardar notas, ejemplos y documentación sobre la certificación
+  - https://github.com/thled/d8cards (por revisar) 
+
+Tests online
     - https://drupalium.com/assessments/online-test-for-drupal-developers
+    - https://www.vskills.in/practice/drupal-mock-test  (por revisar)
