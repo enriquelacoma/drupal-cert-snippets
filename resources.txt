@@ -20,9 +20,10 @@ Guias de estudio
   - https://github.com/WidgetsBurritos/d8-studyguide (por revisar)
 
 Herramientas:
-  - Repositorio en github (https://github.com/enriquelacoma/drupal-cert) como sitio de pruebas para preparar la certificación
+  - Repositorio en github (https://github.com/enriquelacoma/drupal-cert) como sitio de pruebas para preparar la certificación (Drupal 9)
   - Repositorio en github (https://github.com/enriquelacoma/drupal-cert-snippets) para guardar notas, ejemplos y documentación sobre la certificación
-  - https://github.com/thled/d8cards (por revisar) 
+  - https://github.com/thled/d8cards (por revisar)
+  
 
 Tests online
     - https://drupalium.com/assessments/online-test-for-drupal-developers
