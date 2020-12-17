@@ -17,7 +17,7 @@ Guias de estudio en drupalize.me
   - https://drupalize.me/guide/acquia-certified-developer-exam
 
 Guias de estudio
-  - https://github.com/WidgetsBurritos/d8-studyguide (por revisar)
+  - https://github.com/WidgetsBurritos/d8-studyguide
 
 Herramientas:
   - Repositorio en github (https://github.com/enriquelacoma/drupal-cert) como sitio de pruebas para preparar la certificación (Drupal 9)
