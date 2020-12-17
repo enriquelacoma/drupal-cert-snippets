@@ -22,7 +22,7 @@ Guias de estudio
 Herramientas:
   - Repositorio en github (https://github.com/enriquelacoma/drupal-cert) como sitio de pruebas para preparar la certificación (Drupal 9)
   - Repositorio en github (https://github.com/enriquelacoma/drupal-cert-snippets) para guardar notas, ejemplos y documentación sobre la certificación
-  - https://github.com/thled/d8cards (por revisar)
+  - https://github.com/thled/d8cards
   
 
 Tests online
