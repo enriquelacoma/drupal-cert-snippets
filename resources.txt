@@ -27,5 +27,5 @@ Herramientas:
 
 Tests online
     - https://drupalium.com/assessments/online-test-for-drupal-developers
-    - https://www.vskills.in/practice/drupal-mock-test  (por revisar)
+    - https://www.vskills.in/practice/drupal-mock-test 
     - https://www.drupal-x.com
